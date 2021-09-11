@@ -59,7 +59,7 @@ int main(int argc, char* argv[])
                 done = ch == '#';
             }
 
-            gotSigio = 0p
+            gotSigio = 0;
         }
     }
 
